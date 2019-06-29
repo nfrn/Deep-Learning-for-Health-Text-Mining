@@ -10,4 +10,7 @@
 * pip install ipykernel
 * pip install jupyter
 * ipython kernel install --name=my_lab_env
+* pip install -r requirements.txt
 * jupyter notebook
+* Select *Lab[ 1 or 2 ].ipynb* file, go to the toolbar option: *Kernel*, then *Change Kernel* and select *my_lab_env*
+
