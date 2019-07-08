@@ -12,5 +12,5 @@ Working for python 3.6.3 for Windows64
 * ipython kernel install --name=my_lab_env
 * pip install -r requirements.txt
 * jupyter notebook
-* Select *Lab[ 1 or 2 ].ipynb* file, go to the toolbar option: *Kernel*, then *Change Kernel* and select *my_lab_env*
+* Select *Lab[1-3].ipynb* file, go to the toolbar option: *Kernel*, then *Change Kernel* and select *my_lab_env*
 
